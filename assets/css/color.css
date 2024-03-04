@@ -28,12 +28,12 @@ input[type='radio']:checked:after,.footer-provide:hover,.tick:before,
 .food-categorie:hover:before,.slider-categorie button.owl-dot.active,.slider-categorie .owl-nav i:hover,
 .cart-popup .cart-btns a.checkout {
 
-    background-color:#fa441d;
+    background-color:#139cb0;
 
 }
 .quotation-slider .owl-nav i:hover,.team-working:hover,ul.category li:hover,ul.category li:hover span,
 .navbar-links li:hover > a,.hero-two-slider .owl-nav i:hover,.cart:hover,.button:before,.pets-icon:hover,
 .food-categorie:hover,.slider-categorie .owl-nav i:hover,.client-slider .owl-nav i:hover {
-    border-color:#fa441d;
+    border-color:#139cb0;
 
 }
