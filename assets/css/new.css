@@ -1,3 +1,16 @@
 img.flogo001 {
     width: 50%;
 }
+/* .food-categorie img {
+    width: 6vw !important;
+} */
+.btn001 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 50px;
+}
+.we-provide-img.a01 svg {
+    left: 45%;
+    top: 49%;
+}
